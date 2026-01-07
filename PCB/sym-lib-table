@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KEYBOARD")(type "KiCad")(uri "${KIPRJMOD}/Keyboard.pretty/SN74AHCT125N.kicad_sym")(options "")(descr ""))
+)
