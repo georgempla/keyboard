@@ -3613,12 +3613,6 @@
 		(uuid "104f74b5-9e2e-44f3-80ae-6042d149d741")
 	)
 	(junction
-		(at 217.17 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "105c5039-c260-4398-82c1-e25976a5b855")
-	)
-	(junction
 		(at 241.3 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3659,12 +3653,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1c1a303f-f647-4be0-ad99-7a37d32086ac")
-	)
-	(junction
-		(at 252.73 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1e4a646b-a369-45b6-a76b-1ba83853b5bc")
 	)
 	(junction
 		(at 123.19 82.55)
@@ -3719,12 +3707,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b5a0966-5c8e-4905-a6c1-48b3ccdb8b3a")
-	)
-	(junction
-		(at 87.63 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c1e22c9-10b5-42a5-a1b9-86f4cc86cdcb")
 	)
 	(junction
 		(at 123.19 152.4)
@@ -3907,12 +3889,6 @@
 		(uuid "47723b10-5333-45c5-bfc2-687b72cd5172")
 	)
 	(junction
-		(at 231.14 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "49253af4-8814-4d72-9061-e3f08539698f")
-	)
-	(junction
 		(at 231.14 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4003,12 +3979,6 @@
 		(uuid "5ee16a67-37a1-4a5a-b410-46aecd3b978f")
 	)
 	(junction
-		(at 260.35 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60fad885-77d5-428f-9e47-da0fbb7ab7dc")
-	)
-	(junction
 		(at 80.01 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4061,18 +4031,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "694d007b-adc4-44c9-9b5f-4fe9b2742173")
-	)
-	(junction
-		(at 281.94 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a998eba-6179-47dd-b3ae-907e98da274b")
-	)
-	(junction
-		(at 209.55 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b5e63fb-c257-4097-9de5-d4bc5c2347cd")
 	)
 	(junction
 		(at 260.35 109.22)
@@ -4549,12 +4507,6 @@
 		(uuid "b9bfd9dc-5595-4d06-b64b-d604c99f5a04")
 	)
 	(junction
-		(at 238.76 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ba50df46-b7fa-4297-b5bb-a9bcad74ab26")
-	)
-	(junction
 		(at 217.17 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4577,18 +4529,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c059cece-1f59-4179-978d-45f6d04f6159")
-	)
-	(junction
-		(at 295.91 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c06f9686-9e4a-40e9-b606-7d9a56502c2b")
-	)
-	(junction
-		(at 274.32 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c1a31572-5d8b-435b-a38d-8bc790bf02a3")
 	)
 	(junction
 		(at 195.58 21.59)
@@ -4759,12 +4699,6 @@
 		(uuid "dff993d5-1142-4f30-bc7d-deb96e7d05b3")
 	)
 	(junction
-		(at 303.53 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e2986ea1-d293-4cad-bcee-d714c1954d74")
-	)
-	(junction
 		(at 283.21 212.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4799,12 +4733,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef2f440b-bbe1-4baf-a16c-8ee19e983ee4")
-	)
-	(junction
-		(at 101.6 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f01f469c-5667-4591-bf0f-a9d1fe34467b")
 	)
 	(junction
 		(at 187.96 64.77)
@@ -4884,6 +4812,130 @@
 		(color 0 0 0 0)
 		(uuid "fddda968-02c8-4f62-8ecc-db101419646d")
 	)
+	(no_connect
+		(at 86.36 226.06)
+		(uuid "123dd713-8492-496b-abae-ab6e7b451011")
+	)
+	(no_connect
+		(at 86.36 203.2)
+		(uuid "2ba61912-909c-4497-8964-9e3c1d40f788")
+	)
+	(no_connect
+		(at 199.39 250.19)
+		(uuid "2fb9c89b-c34b-42d6-b932-6cb7b57324dc")
+	)
+	(no_connect
+		(at 105.41 184.15)
+		(uuid "2ffbef10-b429-4c13-bb67-4ed8c02ede20")
+	)
+	(no_connect
+		(at 151.13 191.77)
+		(uuid "3a9db64b-057d-4432-809b-161a55382e00")
+	)
+	(no_connect
+		(at 173.99 260.35)
+		(uuid "3f00bfe1-47dc-4a4a-b51f-d1f5c6d95d44")
+	)
+	(no_connect
+		(at 173.99 252.73)
+		(uuid "4152f36e-023a-4ee5-9801-a572866dde42")
+	)
+	(no_connect
+		(at 40.64 187.96)
+		(uuid "5ae309c6-572d-462a-a476-995e7d853127")
+	)
+	(no_connect
+		(at 171.45 199.39)
+		(uuid "5b7392aa-4c0f-4c4c-a09c-7d330ad9225f")
+	)
+	(no_connect
+		(at 173.99 234.95)
+		(uuid "6f43f1f6-4313-4110-9b7e-88a735c05616")
+	)
+	(no_connect
+		(at 86.36 195.58)
+		(uuid "7a07d433-d51a-4f05-8edc-65a4a2867204")
+	)
+	(no_connect
+		(at 40.64 185.42)
+		(uuid "7a8a8915-a47e-4ba1-8905-3362149210c6")
+	)
+	(no_connect
+		(at 254 203.2)
+		(uuid "839215ae-17b6-454c-90e8-5d11c1724d13")
+	)
+	(no_connect
+		(at 173.99 257.81)
+		(uuid "8db2d06a-df33-4d73-9f66-5ef7d42ec557")
+	)
+	(no_connect
+		(at 173.99 245.11)
+		(uuid "941605fa-7510-4f59-9ffd-0c4dd39fac93")
+	)
+	(no_connect
+		(at 86.36 198.12)
+		(uuid "9a3b34fe-0cf7-4ab4-a860-919f5a42aaa0")
+	)
+	(no_connect
+		(at 171.45 191.77)
+		(uuid "9db3a404-ff8c-413c-9b04-6e9e6ed15632")
+	)
+	(no_connect
+		(at 199.39 242.57)
+		(uuid "a5d258c5-ca3d-49a7-94c3-60e79f339850")
+	)
+	(no_connect
+		(at 199.39 257.81)
+		(uuid "a62614ac-1bc3-4221-89bb-2c644aba8163")
+	)
+	(no_connect
+		(at 86.36 231.14)
+		(uuid "a77c4def-07d7-4c31-8535-c53a2158e71c")
+	)
+	(no_connect
+		(at 86.36 223.52)
+		(uuid "ab3f15df-884b-443f-b048-fd6510a47110")
+	)
+	(no_connect
+		(at 86.36 200.66)
+		(uuid "b1da70ae-e756-47b3-ba33-433320da8cf6")
+	)
+	(no_connect
+		(at 151.13 184.15)
+		(uuid "b7857941-530c-40e6-9c24-91134c26439b")
+	)
+	(no_connect
+		(at 105.41 191.77)
+		(uuid "be69925d-ca8c-46fe-9849-0b0daf2b5ef8")
+	)
+	(no_connect
+		(at 173.99 250.19)
+		(uuid "bf605765-8fe8-424a-ab09-514899d80c4e")
+	)
+	(no_connect
+		(at 171.45 194.31)
+		(uuid "d3c05398-0550-428a-9074-03a4b873a22e")
+	)
+	(no_connect
+		(at 86.36 215.9)
+		(uuid "e4f76ea3-3319-4797-8bb5-154caf94d693")
+	)
+	(no_connect
+		(at 86.36 220.98)
+		(uuid "e55723ef-d1e9-4879-ae90-48e0d92eab25")
+	)
+	(no_connect
+		(at 58.42 170.18)
+		(uuid "e5ff0331-e55e-46d7-9dff-7e56d3bd6025")
+	)
+	(no_connect
+		(at 86.36 210.82)
+		(uuid "eca72091-cd70-4d97-a57f-5e33ebad8452")
+	)
+	(no_connect
+		(at 173.99 242.57)
+		(uuid "f13f9ed1-c8ad-41d9-9940-0c2f3deb02e1")
+	)
 	(wire
 		(pts
 			(xy 109.22 109.22) (xy 109.22 127)
@@ -4913,16 +4965,6 @@
 			(type default)
 		)
 		(uuid "008ce317-ec9f-4efb-a809-17d581d65108")
-	)
-	(wire
-		(pts
-			(xy 87.63 127) (xy 87.63 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "012cf61a-b7bf-4552-9797-86d70d63ef6e")
 	)
 	(wire
 		(pts
@@ -5006,26 +5048,6 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 127) (xy 281.94 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05d2ec92-6426-43a0-bbef-df2e6d594005")
-	)
-	(wire
-		(pts
-			(xy 238.76 127) (xy 238.76 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05d8c2f8-d2e3-4398-82f8-a03fc76fae2b")
-	)
-	(wire
-		(pts
 			(xy 129.54 20.32) (xy 129.54 21.59)
 		)
 		(stroke
@@ -5103,6 +5125,16 @@
 			(type default)
 		)
 		(uuid "09842f6b-1b4c-451f-b830-447f22d60143")
+	)
+	(wire
+		(pts
+			(xy 261.62 171.45) (xy 262.89 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b093543-4a21-40a6-a8e8-1aafe4ba0602")
 	)
 	(wire
 		(pts
@@ -5246,6 +5278,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 220.98) (xy 40.64 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1097c68d-fc59-4056-b4ff-a5d4d7c5a89a")
+	)
+	(wire
+		(pts
 			(xy 91.44 21.59) (xy 87.63 21.59)
 		)
 		(stroke
@@ -5283,6 +5325,16 @@
 			(type default)
 		)
 		(uuid "14ffa6ea-e9fe-4230-833d-9b348503e463")
+	)
+	(wire
+		(pts
+			(xy 250.19 210.82) (xy 250.19 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "150d0c98-9d09-4023-a220-5198189ad331")
 	)
 	(wire
 		(pts
@@ -5343,6 +5395,16 @@
 			(type default)
 		)
 		(uuid "17115efc-9c9e-430f-9416-2185b6f0eeca")
+	)
+	(wire
+		(pts
+			(xy 233.68 203.2) (xy 226.06 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "177dda02-01a8-41b8-8d77-668e2ac70dc9")
 	)
 	(wire
 		(pts
@@ -5426,16 +5488,6 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 144.78) (xy 307.34 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a020f0a-fc1b-4dd1-854e-1acadd00f5a4")
-	)
-	(wire
-		(pts
 			(xy 274.32 82.55) (xy 295.91 82.55)
 		)
 		(stroke
@@ -5483,16 +5535,6 @@
 			(type default)
 		)
 		(uuid "1b26488f-17f6-4a77-9e01-e9e1e19d2ecf")
-	)
-	(wire
-		(pts
-			(xy 295.91 152.4) (xy 317.5 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b610da9-c0a2-42ee-9ed5-8f1e72e02dc1")
 	)
 	(wire
 		(pts
@@ -5716,6 +5758,16 @@
 	)
 	(wire
 		(pts
+			(xy 302.26 210.82) (xy 303.53 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25514d35-3ede-4fcc-8a55-7d72f44e978e")
+	)
+	(wire
+		(pts
 			(xy 152.4 21.59) (xy 152.4 39.37)
 		)
 		(stroke
@@ -5743,6 +5795,16 @@
 			(type default)
 		)
 		(uuid "275cf89a-fac4-4176-b867-ddf062903f70")
+	)
+	(wire
+		(pts
+			(xy 39.37 228.6) (xy 40.64 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27e093d3-923a-41a6-a83b-067130b36baa")
 	)
 	(wire
 		(pts
@@ -6096,16 +6158,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 144.78) (xy 220.98 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "389d31e7-04d5-4376-b289-20598df9397d")
-	)
-	(wire
-		(pts
 			(xy 13.97 45.72) (xy 13.97 46.99)
 		)
 		(stroke
@@ -6183,16 +6235,6 @@
 			(type default)
 		)
 		(uuid "3c9562ff-7324-4890-83a9-bd934531bb5c")
-	)
-	(wire
-		(pts
-			(xy 254 203.2) (xy 248.92 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cc534b6-f389-4461-846e-fe8ce40dcf08")
 	)
 	(wire
 		(pts
@@ -6486,16 +6528,6 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 152.4) (xy 295.91 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a654819-bfa0-4506-981e-0aa69940bce1")
-	)
-	(wire
-		(pts
 			(xy 152.4 127) (xy 156.21 127)
 		)
 		(stroke
@@ -6513,6 +6545,16 @@
 			(type default)
 		)
 		(uuid "4b6f181f-4b16-4361-b5d1-cbe63d788543")
+	)
+	(wire
+		(pts
+			(xy 250.19 203.2) (xy 248.92 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4be15b64-9481-4992-837a-fbd6f1a066e3")
 	)
 	(wire
 		(pts
@@ -6796,16 +6838,6 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 144.78) (xy 285.75 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "602437dc-0a5d-4f2a-8000-0a2975485022")
-	)
-	(wire
-		(pts
 			(xy 187.96 116.84) (xy 209.55 116.84)
 		)
 		(stroke
@@ -6933,6 +6965,16 @@
 			(type default)
 		)
 		(uuid "661b7bda-103e-4956-9372-c3d4ae210480")
+	)
+	(wire
+		(pts
+			(xy 281.94 210.82) (xy 283.21 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66642737-e217-40d8-b149-0b52246f977a")
 	)
 	(wire
 		(pts
@@ -7126,13 +7168,13 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 127) (xy 260.35 144.78)
+			(xy 281.94 171.45) (xy 283.21 171.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6ff9e0de-c20e-456b-b021-07a1bbf39cf7")
+		(uuid "6ff1345d-ee8c-42dc-b5ed-b7368abfcf2e")
 	)
 	(wire
 		(pts
@@ -7786,16 +7828,6 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 144.78) (xy 91.44 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d82662c-7072-4dda-b67b-ceac9b9019c8")
-	)
-	(wire
-		(pts
 			(xy 238.76 39.37) (xy 238.76 57.15)
 		)
 		(stroke
@@ -7946,16 +7978,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 152.4) (xy 231.14 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9636c1c0-3efd-45d5-947b-0a7f4b2d6b44")
-	)
-	(wire
-		(pts
 			(xy 274.32 29.21) (xy 295.91 29.21)
 		)
 		(stroke
@@ -8023,16 +8045,6 @@
 			(type default)
 		)
 		(uuid "9b23bec0-7c65-4009-9ac8-26cdb5c110bd")
-	)
-	(wire
-		(pts
-			(xy 260.35 144.78) (xy 264.16 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b2fc61e-363b-4aa4-884a-bfc40b47400d")
 	)
 	(wire
 		(pts
@@ -8276,6 +8288,16 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 179.07) (xy 233.68 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abb7fea5-de19-4eb0-9f5c-92add7eabb43")
+	)
+	(wire
+		(pts
 			(xy 63.5 243.84) (xy 63.5 246.38)
 		)
 		(stroke
@@ -8506,6 +8528,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 226.06) (xy 40.64 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7858665-33a2-42e7-924b-9f5202025f62")
+	)
+	(wire
+		(pts
 			(xy 66.04 57.15) (xy 66.04 74.93)
 		)
 		(stroke
@@ -8586,6 +8618,16 @@
 	)
 	(wire
 		(pts
+			(xy 302.26 171.45) (xy 303.53 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bce8df1b-fd6a-4fc3-83a7-dafa74371683")
+	)
+	(wire
+		(pts
 			(xy 13.97 46.99) (xy 38.1 46.99)
 		)
 		(stroke
@@ -8626,16 +8668,6 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 127) (xy 303.53 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be79ec53-1a97-4e27-a761-9d7f06d734d8")
-	)
-	(wire
-		(pts
 			(xy 274.32 134.62) (xy 295.91 134.62)
 		)
 		(stroke
@@ -8673,16 +8705,6 @@
 			(type default)
 		)
 		(uuid "c16f0ad2-eef2-4855-803c-59d48bf6e7cd")
-	)
-	(wire
-		(pts
-			(xy 217.17 127) (xy 217.17 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1858f34-484e-42ed-9cc9-e5c9aac66a24")
 	)
 	(wire
 		(pts
@@ -8796,13 +8818,13 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 152.4) (xy 252.73 152.4)
+			(xy 39.37 223.52) (xy 40.64 223.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c847d1dc-bd4d-442e-b7e5-bb43fad4339f")
+		(uuid "c9dbc674-4dab-42b3-aa7b-be9fdb528172")
 	)
 	(wire
 		(pts
@@ -8886,7 +8908,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 152.4) (xy 101.6 152.4)
+			(xy 80.01 152.4) (xy 123.19 152.4)
 		)
 		(stroke
 			(width 0)
@@ -8913,16 +8935,6 @@
 			(type default)
 		)
 		(uuid "cc4fbdc5-6b72-4868-ba74-8a0af7f43445")
-	)
-	(wire
-		(pts
-			(xy 238.76 144.78) (xy 242.57 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccf705b7-b28b-41ab-9d1d-1d31654b7d0c")
 	)
 	(wire
 		(pts
@@ -8996,6 +9008,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 210.82) (xy 262.89 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf9fed02-fb2e-46ee-801e-d1a6749ebc60")
+	)
+	(wire
+		(pts
 			(xy 130.81 144.78) (xy 134.62 144.78)
 		)
 		(stroke
@@ -9013,6 +9035,16 @@
 			(type default)
 		)
 		(uuid "d0834d73-778f-403a-b08a-79bf1405235e")
+	)
+	(wire
+		(pts
+			(xy 226.06 203.2) (xy 226.06 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d14b6691-81fe-49fd-a9c5-471b649bbba6")
 	)
 	(wire
 		(pts
@@ -9316,16 +9348,6 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 152.4) (xy 274.32 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddb569d7-cda1-421f-ad58-fef16b54016c")
-	)
-	(wire
-		(pts
 			(xy 281.94 39.37) (xy 285.75 39.37)
 		)
 		(stroke
@@ -9473,16 +9495,6 @@
 			(type default)
 		)
 		(uuid "e57cb6b1-ed49-4fc9-afc6-695a209db218")
-	)
-	(wire
-		(pts
-			(xy 231.14 179.07) (xy 233.68 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e76f7d79-c70d-42cb-8c65-ea1c391473f2")
 	)
 	(wire
 		(pts
@@ -9833,16 +9845,6 @@
 			(type default)
 		)
 		(uuid "fca6959f-1279-44e1-8179-aee94c6aab5c")
-	)
-	(wire
-		(pts
-			(xy 101.6 152.4) (xy 123.19 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd0f52de-bc3c-4dc7-967e-042ca3b7b71d")
 	)
 	(wire
 		(pts
@@ -10336,6 +10338,28 @@
 			)
 		)
 	)
+	(global_label "RES2-B"
+		(shape bidirectional)
+		(at 39.37 228.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "16d2c65e-86c5-4aa5-af61-d2e5cb0f5a32")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.8858 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RES1-S1"
 		(shape output)
 		(at 134.62 248.92 0)
@@ -10470,7 +10494,7 @@
 	)
 	(global_label "RGB5"
 		(shape output)
-		(at 231.14 179.07 180)
+		(at 250.19 210.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10480,7 +10504,7 @@
 		)
 		(uuid "3b90ad85-78aa-4258-9317-a0cba0862232")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.959 179.07 0)
+			(at 260.009 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10996,6 +11020,28 @@
 			)
 		)
 	)
+	(global_label "RES1-B"
+		(shape bidirectional)
+		(at 39.37 223.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "77e24e59-5308-46d5-b88c-1c9bd0299724")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.8858 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL 10"
 		(shape output)
 		(at 236.22 21.59 90)
@@ -11014,6 +11060,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RES2-A"
+		(shape bidirectional)
+		(at 39.37 226.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7cf03c93-53f0-4e89-a922-a519328e517e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.8858 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -11370,6 +11438,28 @@
 			)
 		)
 	)
+	(global_label "RES1-A"
+		(shape bidirectional)
+		(at 39.37 220.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c295cae2-0451-4604-b390-c16f8ce3473b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.8858 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL 1"
 		(shape output)
 		(at 43.18 20.32 90)
@@ -11704,7 +11794,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 290.83 104.14 0)
 			(effects
 				(font
@@ -11774,7 +11864,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 187.96 96.52 0)
 			(effects
 				(font
@@ -11862,7 +11952,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -11948,7 +12038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 290.83 52.07 0)
 			(effects
 				(font
@@ -12016,7 +12106,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 139.7 121.92 0)
 			(effects
 				(font
@@ -12084,7 +12174,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 74.93 16.51 0)
 			(effects
 				(font
@@ -12152,7 +12242,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 204.47 87.63 0)
 			(effects
 				(font
@@ -12286,7 +12376,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 182.88 121.92 0)
 			(effects
 				(font
@@ -12354,7 +12444,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 139.7 69.85 0)
 			(effects
 				(font
@@ -12424,7 +12514,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 166.37 25.4 0)
 			(effects
 				(font
@@ -12510,7 +12600,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 312.42 52.07 0)
 			(effects
 				(font
@@ -12578,7 +12668,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 139.7 0)
 			(effects
 				(font
@@ -12646,7 +12736,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 87.63 0)
 			(effects
 				(font
@@ -12714,7 +12804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 290.83 16.51 0)
 			(effects
 				(font
@@ -13044,7 +13134,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 209.55 96.52 0)
 			(effects
 				(font
@@ -13130,7 +13220,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 182.88 16.51 0)
 			(effects
 				(font
@@ -13200,7 +13290,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 187.96 130.81 0)
 			(effects
 				(font
@@ -13288,7 +13378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 123.19 113.03 0)
 			(effects
 				(font
@@ -13374,7 +13464,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 139.7 16.51 0)
 			(effects
 				(font
@@ -13442,7 +13532,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 139.7 34.29 0)
 			(effects
 				(font
@@ -13510,7 +13600,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 226.06 69.85 0)
 			(effects
 				(font
@@ -13655,7 +13745,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 204.47 139.7 0)
 			(effects
 				(font
@@ -13725,7 +13815,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 144.78 78.74 0)
 			(effects
 				(font
@@ -13813,7 +13903,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 96.52 0)
 			(effects
 				(font
@@ -13875,94 +13965,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 252.73 148.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ee83e01-9a6c-4816-84eb-52900f5e5198")
-		(property "Reference" "D88"
-			(at 255.27 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 255.27 149.8599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 252.73 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 252.73 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 252.73 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 252.73 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 252.73 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a6207e5c-620e-443a-839b-1706f09361aa")
-		)
-		(pin "2"
-			(uuid "fd8a5c9e-c874-4288-ad85-c5e3e094bb20")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "D88")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 38.1 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13989,7 +13991,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 96.52 0)
 			(effects
 				(font
@@ -14077,7 +14079,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 274.32 130.81 0)
 			(effects
 				(font
@@ -14163,7 +14165,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 69.85 0)
 			(effects
 				(font
@@ -14231,7 +14233,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 87.63 0)
 			(effects
 				(font
@@ -14301,7 +14303,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 274.32 78.74 0)
 			(effects
 				(font
@@ -14387,7 +14389,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 182.88 104.14 0)
 			(effects
 				(font
@@ -14455,7 +14457,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 161.29 104.14 0)
 			(effects
 				(font
@@ -14601,7 +14603,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 101.6 43.18 0)
 			(effects
 				(font
@@ -14687,7 +14689,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 182.88 69.85 0)
 			(effects
 				(font
@@ -14755,7 +14757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SN74AHCT125N:DIP794W45P254L1930H508Q14"
+		(property "Footprint" "KEYBOARD:DIP794W45P254L1930H508Q14"
 			(at 186.69 247.65 0)
 			(effects
 				(font
@@ -14992,7 +14994,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 58.42 113.03 0)
 			(effects
 				(font
@@ -15080,7 +15082,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 25.4 0)
 			(effects
 				(font
@@ -15243,7 +15245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 74.93 139.7 0)
 			(effects
 				(font
@@ -15311,7 +15313,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 34.29 0)
 			(effects
 				(font
@@ -15379,7 +15381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 33.02 87.63 0)
 			(effects
 				(font
@@ -15449,7 +15451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 187.96 60.96 0)
 			(effects
 				(font
@@ -15537,7 +15539,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 295.91 43.18 0)
 			(effects
 				(font
@@ -15702,7 +15704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 166.37 43.18 0)
 			(effects
 				(font
@@ -15790,7 +15792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 123.19 43.18 0)
 			(effects
 				(font
@@ -16018,7 +16020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 187.96 113.03 0)
 			(effects
 				(font
@@ -16106,7 +16108,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 123.19 130.81 0)
 			(effects
 				(font
@@ -16327,7 +16329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 166.37 60.96 0)
 			(effects
 				(font
@@ -16413,7 +16415,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 226.06 87.63 0)
 			(effects
 				(font
@@ -16481,7 +16483,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 269.24 87.63 0)
 			(effects
 				(font
@@ -16549,7 +16551,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 33.02 69.85 0)
 			(effects
 				(font
@@ -16617,7 +16619,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 69.85 0)
 			(effects
 				(font
@@ -16685,7 +16687,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 269.24 34.29 0)
 			(effects
 				(font
@@ -16755,7 +16757,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 113.03 0)
 			(effects
 				(font
@@ -16841,7 +16843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 33.02 139.7 0)
 			(effects
 				(font
@@ -16911,7 +16913,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 123.19 25.4 0)
 			(effects
 				(font
@@ -16999,7 +17001,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 295.91 96.52 0)
 			(effects
 				(font
@@ -17087,7 +17089,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 60.96 0)
 			(effects
 				(font
@@ -17173,7 +17175,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 161.29 16.51 0)
 			(effects
 				(font
@@ -17241,7 +17243,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 182.88 87.63 0)
 			(effects
 				(font
@@ -17311,7 +17313,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 187.96 78.74 0)
 			(effects
 				(font
@@ -17397,7 +17399,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 33.02 121.92 0)
 			(effects
 				(font
@@ -17465,7 +17467,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 52.07 0)
 			(effects
 				(font
@@ -17533,7 +17535,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 16.51 0)
 			(effects
 				(font
@@ -17679,7 +17681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 25.4 0)
 			(effects
 				(font
@@ -17765,7 +17767,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 226.06 52.07 0)
 			(effects
 				(font
@@ -17835,7 +17837,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 43.18 0)
 			(effects
 				(font
@@ -17921,7 +17923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 52.07 0)
 			(effects
 				(font
@@ -17989,7 +17991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 312.42 87.63 0)
 			(effects
 				(font
@@ -18033,74 +18035,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 269.24 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4cda5b81-4025-4e72-998f-2d4c44d75725")
-		(property "Reference" "SW96"
-			(at 269.24 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 269.24 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 269.24 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 269.24 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 269.24 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "528efa0f-b52d-4a1e-a800-127416bcb0b2")
-		)
-		(pin "2"
-			(uuid "2795f8ca-d50c-4c6c-b842-f10d54b6db43")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "SW96")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 96.52 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18125,7 +18059,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 87.63 0)
 			(effects
 				(font
@@ -18195,7 +18129,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 130.81 0)
 			(effects
 				(font
@@ -18281,7 +18215,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 33.02 34.29 0)
 			(effects
 				(font
@@ -18349,7 +18283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm"
 			(at 120.65 266.446 0)
 			(effects
 				(font
@@ -18428,7 +18362,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 144.78 96.52 0)
 			(effects
 				(font
@@ -18514,7 +18448,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 226.06 16.51 0)
 			(effects
 				(font
@@ -18582,7 +18516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 182.88 34.29 0)
 			(effects
 				(font
@@ -18650,7 +18584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 52.07 0)
 			(effects
 				(font
@@ -18718,7 +18652,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 34.29 0)
 			(effects
 				(font
@@ -18786,7 +18720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 226.06 34.29 0)
 			(effects
 				(font
@@ -18854,7 +18788,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 182.88 139.7 0)
 			(effects
 				(font
@@ -18924,7 +18858,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 209.55 113.03 0)
 			(effects
 				(font
@@ -19078,7 +19012,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 113.03 0)
 			(effects
 				(font
@@ -19166,7 +19100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 209.55 25.4 0)
 			(effects
 				(font
@@ -19252,7 +19186,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 33.02 16.51 0)
 			(effects
 				(font
@@ -19320,7 +19254,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 312.42 69.85 0)
 			(effects
 				(font
@@ -19390,7 +19324,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 101.6 25.4 0)
 			(effects
 				(font
@@ -19478,7 +19412,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 58.42 78.74 0)
 			(effects
 				(font
@@ -19566,7 +19500,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 123.19 60.96 0)
 			(effects
 				(font
@@ -19654,7 +19588,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 274.32 113.03 0)
 			(effects
 				(font
@@ -19742,7 +19676,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 58.42 148.59 0)
 			(effects
 				(font
@@ -19830,7 +19764,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 295.91 113.03 0)
 			(effects
 				(font
@@ -19916,7 +19850,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 290.83 87.63 0)
 			(effects
 				(font
@@ -19986,7 +19920,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 25.4 0)
 			(effects
 				(font
@@ -20140,7 +20074,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 295.91 130.81 0)
 			(effects
 				(font
@@ -20293,7 +20227,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 226.06 104.14 0)
 			(effects
 				(font
@@ -20336,74 +20270,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 290.83 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "710f50d3-7118-481c-b51c-280a6db26b8f")
-		(property "Reference" "SW104"
-			(at 290.83 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 290.83 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 290.83 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 290.83 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 290.83 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bd9ca2b4-1f8a-4cd7-9afc-670885a50e89")
-		)
-		(pin "2"
-			(uuid "e8599319-7c45-4333-8dd7-04a8ad5a2d10")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "SW104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 80.01 43.18 90)
 		(unit 1)
@@ -20431,7 +20297,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 43.18 0)
 			(effects
 				(font
@@ -20519,7 +20385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 209.55 130.81 0)
 			(effects
 				(font
@@ -20607,7 +20473,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 166.37 113.03 0)
 			(effects
 				(font
@@ -20695,7 +20561,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 148.59 0)
 			(effects
 				(font
@@ -20783,7 +20649,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 78.74 0)
 			(effects
 				(font
@@ -20869,7 +20735,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 312.42 121.92 0)
 			(effects
 				(font
@@ -20937,7 +20803,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 204.47 34.29 0)
 			(effects
 				(font
@@ -21007,7 +20873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 130.81 0)
 			(effects
 				(font
@@ -21095,7 +20961,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 60.96 0)
 			(effects
 				(font
@@ -21183,7 +21049,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 58.42 60.96 0)
 			(effects
 				(font
@@ -21245,74 +21111,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 96.52 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a2d2a4e-17ae-4b64-9bcb-9b63425c6623")
-		(property "Reference" "SW32"
-			(at 96.52 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 96.52 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 96.52 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 96.52 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fc747237-15de-4623-83ef-8990a69c512a")
-		)
-		(pin "2"
-			(uuid "5bbbba40-c1b1-4533-96fc-674fc564b9ca")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "SW32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 269.24 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21337,7 +21135,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 269.24 16.51 0)
 			(effects
 				(font
@@ -21406,7 +21204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 103.8352 203.2 0)
 			(effects
 				(font
@@ -21476,7 +21274,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 295.91 60.96 0)
 			(effects
 				(font
@@ -21564,7 +21362,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 317.5 60.96 0)
 			(effects
 				(font
@@ -21652,7 +21450,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KEYBOARD:SOIC127P600X175-16N"
 			(at 115.57 186.69 0)
 			(effects
 				(font
@@ -21764,7 +21562,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 25.4 0)
 			(effects
 				(font
@@ -21850,7 +21648,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 104.14 0)
 			(effects
 				(font
@@ -21918,7 +21716,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 182.88 52.07 0)
 			(effects
 				(font
@@ -21988,7 +21786,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 144.78 113.03 0)
 			(effects
 				(font
@@ -22076,7 +21874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 60.96 0)
 			(effects
 				(font
@@ -22163,7 +21961,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 220.6752 182.88 0)
 			(effects
 				(font
@@ -22233,7 +22031,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 43.18 0)
 			(effects
 				(font
@@ -22321,7 +22119,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 187.96 148.59 0)
 			(effects
 				(font
@@ -22409,7 +22207,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 101.6 96.52 0)
 			(effects
 				(font
@@ -22471,94 +22269,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 295.91 148.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b6e989b-3355-4627-9418-b5b464ff1169")
-		(property "Reference" "D104"
-			(at 298.45 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 298.45 149.8599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 295.91 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 295.91 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 295.91 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 295.91 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 295.91 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ccc1a110-9969-4b5d-9543-7c4cbdfe094b")
-		)
-		(pin "2"
-			(uuid "4838ded0-5740-4169-b911-91a3c517d6e0")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "D104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 58.42 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22585,7 +22295,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 58.42 96.52 0)
 			(effects
 				(font
@@ -22737,7 +22447,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 74.93 87.63 0)
 			(effects
 				(font
@@ -22805,7 +22515,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 161.29 69.85 0)
 			(effects
 				(font
@@ -22875,7 +22585,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 144.78 130.81 0)
 			(effects
 				(font
@@ -23104,7 +22814,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 226.06 121.92 0)
 			(effects
 				(font
@@ -23174,7 +22884,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 209.55 60.96 0)
 			(effects
 				(font
@@ -23260,7 +22970,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 204.47 121.92 0)
 			(effects
 				(font
@@ -23474,7 +23184,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 101.6 78.74 0)
 			(effects
 				(font
@@ -23562,7 +23272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 130.81 0)
 			(effects
 				(font
@@ -23650,7 +23360,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 144.78 25.4 0)
 			(effects
 				(font
@@ -23738,7 +23448,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 317.5 25.4 0)
 			(effects
 				(font
@@ -23799,94 +23509,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 101.6 148.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ed32bb8-ca08-41df-aada-59ad2ccff143")
-		(property "Reference" "D32"
-			(at 104.14 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 104.14 149.8599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 101.6 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 101.6 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 101.6 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 101.6 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 101.6 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "41216e25-4511-4ab9-9492-6285101e3b7d")
-		)
-		(pin "2"
-			(uuid "dac1abba-90b7-41dc-abbe-7824897383dc")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "D32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 247.65 127 0)
 		(unit 1)
@@ -23912,7 +23534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 121.92 0)
 			(effects
 				(font
@@ -23982,7 +23604,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 58.42 25.4 0)
 			(effects
 				(font
@@ -24043,182 +23665,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 317.5 148.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a4a8d4c7-388e-4ce8-883c-4e72752a0e03")
-		(property "Reference" "D112"
-			(at 320.04 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 320.04 149.8599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 317.5 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 317.5 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 317.5 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 317.5 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 317.5 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1896be41-d53c-4f83-a344-867dacb86765")
-		)
-		(pin "2"
-			(uuid "f467e694-0b30-496b-97b2-45d345493378")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "D112")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 274.32 148.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a58ea4d8-37eb-4786-8e10-3b27faeae4d8")
-		(property "Reference" "D96"
-			(at 276.86 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 276.86 149.8599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 274.32 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 274.32 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 274.32 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 274.32 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 274.32 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "71c868f7-1435-4985-a3fb-64538a6c8441")
-		)
-		(pin "2"
-			(uuid "034b7a3f-d9ae-48b9-800b-7c76b9f04789")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "D96")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 74.93 39.37 0)
 		(unit 1)
@@ -24244,7 +23690,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 74.93 34.29 0)
 			(effects
 				(font
@@ -24314,7 +23760,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 113.03 0)
 			(effects
 				(font
@@ -24476,7 +23922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 290.83 69.85 0)
 			(effects
 				(font
@@ -24546,7 +23992,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 123.19 96.52 0)
 			(effects
 				(font
@@ -24632,7 +24078,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 139.7 52.07 0)
 			(effects
 				(font
@@ -24676,74 +24122,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 226.06 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aa93d5d4-191c-4067-a4d9-62120b71b3e3")
-		(property "Reference" "SW80"
-			(at 226.06 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 226.06 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 226.06 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 226.06 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 226.06 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c702f313-cedb-4e2c-9ce0-816aa149bf97")
-		)
-		(pin "2"
-			(uuid "e179913d-04c5-4600-b07a-569684547b20")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "SW80")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 53.34 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24768,7 +24146,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 104.14 0)
 			(effects
 				(font
@@ -24836,7 +24214,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 290.83 34.29 0)
 			(effects
 				(font
@@ -24904,7 +24282,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 139.7 87.63 0)
 			(effects
 				(font
@@ -24972,7 +24350,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 16.51 0)
 			(effects
 				(font
@@ -25016,74 +24394,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 312.42 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b1a44516-952e-4589-870b-e3b21379b844")
-		(property "Reference" "SW112"
-			(at 312.42 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 312.42 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 312.42 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 312.42 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 312.42 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3b2cb7d6-0dc4-4199-b903-b743581ad3d7")
-		)
-		(pin "2"
-			(uuid "9ebb8401-86b0-4a25-b9b1-4bdd2052a10c")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "SW112")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 53.34 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25108,7 +24418,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 69.85 0)
 			(effects
 				(font
@@ -25244,7 +24554,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 78.74 0)
 			(effects
 				(font
@@ -25330,7 +24640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 161.29 139.7 0)
 			(effects
 				(font
@@ -25398,7 +24708,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 121.92 0)
 			(effects
 				(font
@@ -25468,7 +24778,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 60.96 0)
 			(effects
 				(font
@@ -25556,7 +24866,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 166.37 78.74 0)
 			(effects
 				(font
@@ -25709,7 +25019,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 269.24 69.85 0)
 			(effects
 				(font
@@ -25752,74 +25062,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 247.65 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b87e1721-cf7c-4455-bc1a-c7f807835fcd")
-		(property "Reference" "SW88"
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 247.65 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 247.65 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 247.65 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "757b04cc-2b40-4a3c-b16c-a00e901545fc")
-		)
-		(pin "2"
-			(uuid "e7841dd7-99a1-47cf-96ec-34f104916453")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "SW88")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 38.1 78.74 90)
 		(unit 1)
@@ -25847,7 +25089,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 78.74 0)
 			(effects
 				(font
@@ -25933,7 +25175,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 139.7 0)
 			(effects
 				(font
@@ -26001,7 +25243,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 104.14 0)
 			(effects
 				(font
@@ -26069,7 +25311,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 312.42 104.14 0)
 			(effects
 				(font
@@ -26139,7 +25381,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 274.32 60.96 0)
 			(effects
 				(font
@@ -26225,7 +25467,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 204.47 69.85 0)
 			(effects
 				(font
@@ -26295,7 +25537,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 130.81 0)
 			(effects
 				(font
@@ -26383,7 +25625,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 123.19 148.59 0)
 			(effects
 				(font
@@ -26471,7 +25713,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 274.32 25.4 0)
 			(effects
 				(font
@@ -26559,7 +25801,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 58.42 43.18 0)
 			(effects
 				(font
@@ -26647,7 +25889,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 101.6 130.81 0)
 			(effects
 				(font
@@ -26733,7 +25975,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 139.7 139.7 0)
 			(effects
 				(font
@@ -26803,7 +26045,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 101.6 113.03 0)
 			(effects
 				(font
@@ -26889,7 +26131,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 269.24 52.07 0)
 			(effects
 				(font
@@ -27026,7 +26268,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 78.74 0)
 			(effects
 				(font
@@ -27114,7 +26356,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 295.91 78.74 0)
 			(effects
 				(font
@@ -27200,7 +26442,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 161.29 34.29 0)
 			(effects
 				(font
@@ -27268,7 +26510,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 204.47 52.07 0)
 			(effects
 				(font
@@ -27405,7 +26647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 187.96 25.4 0)
 			(effects
 				(font
@@ -27493,7 +26735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 101.6 60.96 0)
 			(effects
 				(font
@@ -27581,7 +26823,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 148.59 0)
 			(effects
 				(font
@@ -27735,7 +26977,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 144.78 148.59 0)
 			(effects
 				(font
@@ -27821,7 +27063,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 74.93 104.14 0)
 			(effects
 				(font
@@ -27891,7 +27133,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 144.78 60.96 0)
 			(effects
 				(font
@@ -27977,7 +27219,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm"
 			(at 120.65 247.396 0)
 			(effects
 				(font
@@ -28054,7 +27296,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 34.29 0)
 			(effects
 				(font
@@ -28122,7 +27364,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 69.85 0)
 			(effects
 				(font
@@ -28191,7 +27433,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 176.2252 203.2 0)
 			(effects
 				(font
@@ -28259,7 +27501,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 161.29 87.63 0)
 			(effects
 				(font
@@ -28327,7 +27569,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 74.93 121.92 0)
 			(effects
 				(font
@@ -28395,7 +27637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 74.93 69.85 0)
 			(effects
 				(font
@@ -28463,7 +27705,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 16.51 0)
 			(effects
 				(font
@@ -28533,7 +27775,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 274.32 43.18 0)
 			(effects
 				(font
@@ -28621,7 +27863,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 317.5 78.74 0)
 			(effects
 				(font
@@ -28709,7 +27951,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 144.78 43.18 0)
 			(effects
 				(font
@@ -28795,7 +28037,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 87.63 0)
 			(effects
 				(font
@@ -28865,7 +28107,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 317.5 130.81 0)
 			(effects
 				(font
@@ -28953,7 +28195,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 295.91 25.4 0)
 			(effects
 				(font
@@ -29039,7 +28281,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 33.02 104.14 0)
 			(effects
 				(font
@@ -29109,7 +28351,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 166.37 130.81 0)
 			(effects
 				(font
@@ -29195,7 +28437,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 269.24 121.92 0)
 			(effects
 				(font
@@ -29265,7 +28507,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 209.55 148.59 0)
 			(effects
 				(font
@@ -29353,7 +28595,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 166.37 148.59 0)
 			(effects
 				(font
@@ -29441,7 +28683,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 80.01 113.03 0)
 			(effects
 				(font
@@ -29527,7 +28769,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 16.51 0)
 			(effects
 				(font
@@ -29597,7 +28839,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 187.96 43.18 0)
 			(effects
 				(font
@@ -29685,7 +28927,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 317.5 113.03 0)
 			(effects
 				(font
@@ -29773,7 +29015,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 274.32 96.52 0)
 			(effects
 				(font
@@ -29861,7 +29103,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 317.5 96.52 0)
 			(effects
 				(font
@@ -29923,94 +29165,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 231.14 148.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e50b6e5a-7e6d-4130-b10c-cb5445d00d19")
-		(property "Reference" "D80"
-			(at 233.68 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 233.68 149.8599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 231.14 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 231.14 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 231.14 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 231.14 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f581fb0c-1184-46d9-88d2-cc80ede43387")
-		)
-		(pin "2"
-			(uuid "992cccc9-da9b-4313-b38d-3bee35a0f78f")
-		)
-		(instances
-			(project "keyboard"
-				(path "/9f221545-84f4-49a0-8968-c9afc7b88036"
-					(reference "D80")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 317.5 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -30037,7 +29191,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 317.5 43.18 0)
 			(effects
 				(font
@@ -30123,7 +29277,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 121.92 0)
 			(effects
 				(font
@@ -30191,7 +29345,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 204.47 104.14 0)
 			(effects
 				(font
@@ -30261,7 +29415,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 58.42 130.81 0)
 			(effects
 				(font
@@ -30340,7 +29494,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "a"
+		(property "Value" "74HC595"
 			(at 163.4333 171.45 0)
 			(effects
 				(font
@@ -30349,7 +29503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KEYBOARD:SOIC127P600X175-16N"
 			(at 161.29 186.69 0)
 			(effects
 				(font
@@ -30459,7 +29613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 121.92 0)
 			(effects
 				(font
@@ -30593,7 +29747,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 269.24 104.14 0)
 			(effects
 				(font
@@ -30661,7 +29815,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 74.93 52.07 0)
 			(effects
 				(font
@@ -30729,7 +29883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 139.7 104.14 0)
 			(effects
 				(font
@@ -30864,7 +30018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -30934,7 +30088,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 166.37 96.52 0)
 			(effects
 				(font
@@ -31020,7 +30174,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 204.47 16.51 0)
 			(effects
 				(font
@@ -31088,7 +30242,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 34.29 0)
 			(effects
 				(font
@@ -31158,7 +30312,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 43.18 0)
 			(effects
 				(font
@@ -31244,7 +30398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 104.14 0)
 			(effects
 				(font
@@ -31389,7 +30543,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 161.29 52.07 0)
 			(effects
 				(font
@@ -31459,7 +30613,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 96.52 0)
 			(effects
 				(font
@@ -31545,7 +30699,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 33.02 52.07 0)
 			(effects
 				(font
@@ -31613,7 +30767,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 290.83 121.92 0)
 			(effects
 				(font
@@ -31681,7 +30835,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 161.29 121.92 0)
 			(effects
 				(font
@@ -31751,7 +30905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 209.55 43.18 0)
 			(effects
 				(font
@@ -31839,7 +30993,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 123.19 78.74 0)
 			(effects
 				(font
@@ -31927,7 +31081,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 209.55 78.74 0)
 			(effects
 				(font
